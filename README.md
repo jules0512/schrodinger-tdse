@@ -23,10 +23,10 @@ The work is organised around two files:
 
 ## The equation
 
-$$ i\,\frac{\partial \psi}{\partial t} = -\frac{\partial^2 \psi}{\partial x^2} + V(x)\,\psi, \qquad \hbar = 1,\; m = \tfrac12, $$
+$$ i\frac{\partial \psi}{\partial t} = -\frac{\partial^2 \psi}{\partial x^2} + V(x)\psi, \qquad \hbar = 1, \quad m = \tfrac12, $$
 
 solved on a box $[0, L]$ with hard walls, starting from a Gaussian packet
-$\psi(x, 0) = e^{i k_0 x}\, e^{-(x - x_0)^2 / 2\sigma_0^2}$.
+$\psi(x, 0) = e^{i k_0 x} e^{-(x - x_0)^2 / 2\sigma_0^2}$.
 
 ## Selected results
 
